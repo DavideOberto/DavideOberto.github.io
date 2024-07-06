@@ -65,5 +65,5 @@ Reviewer for
 
 Scientific societies
 =====
-* from 2022: Member of ``UMI-Math & AI & ML'', Member of ``UMI-SIMAI''
-* from 2021: Member of the “Gruppo Nazionale Calcolo Scientifico” (GNCS) of the Istituto di Alta Matematica (INdAM)
+* from 2022: Member of "UMI-Math & AI & ML", Member of "UMI-SIMAI"
+* from 2021: Member of the "Gruppo Nazionale Calcolo Scientifico" (GNCS) of the Istituto di Alta Matematica (INdAM)
