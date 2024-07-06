@@ -26,8 +26,9 @@ Research experience
   
 International mobility
 =====
-* May 2022 - Sep 2022: <em>Visiting PhD student</em> at Biomedical Imaging Group (Working with Prof. M. Unser). EPFL, Lausanne (CH)
 * Feb 2023 - May 2023: <em>Visiting PhD student</em> at Montréal Institute for Learning Algorithms (MILA) (Working with Prof. M. Ravanelli & S. Brugiapaglia). Montréal (CA)
+* May 2022 - Sep 2022: <em>Visiting PhD student</em> at Biomedical Imaging Group (Working with Prof. M. Unser). EPFL, Lausanne (CH)
+
 
 <!-- continua a modificare
 
