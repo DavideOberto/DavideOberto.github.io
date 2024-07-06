@@ -13,7 +13,7 @@ Extended version of the CV [here](/files/Giuseppe_Alessio_DInverno_CV.pdf) (last
 
 Education
 ======
-* 2015 - B.A. in Violin, Conservatorio "R.Franci, Siena, Italy 
+* 2015 - B.A. in Violin, Conservatorio "R.Franci", Siena, Italy 
 * 2018 - B.S. in Mathematics, University of Siena, Italy
 * 2020 - M.S. in Applied Mathematics, University of Siena, Italy 
 * 2024 - Ph.D in Information Engineering & Science, University of Siena, Italy
