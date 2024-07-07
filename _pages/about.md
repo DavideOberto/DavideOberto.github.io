@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+I'm a Postdoctoral Researcher in Numerical Analysis at SISSA, Trieste, Italy. I got my PhD in Information Engineering & Science at University of Siena in April 2024, under the supervision of Maria Lucia Sampoli, Franco Scarselli and Monica Bianchini.
+
+I'm also a musician, I got my B.A. in Violin in November 2015 under the teachings of professor Luca Rinaldi. I currently play with several orchestras around the Europe. 
+
 <h2>Research Interests</h2>
 
 My research interests focus on the theoretical analysis of Deep Learning Models and on Uncertainty Quantification for Scientific Computing; nevertheless, I always get interested in challenging tasks whose solution could improve life quality of people.
