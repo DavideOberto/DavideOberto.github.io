@@ -16,7 +16,7 @@ I'm also a musician, I got my B.A. in Violin in November 2015 under the teaching
 
 My research interests focus on the theoretical analysis of Deep Learning Models and on Uncertainty Quantification for Scientific Computing; nevertheless, I always get interested in challenging tasks whose solution could improve life quality of people.
 
-<h2>Personal lifestyle</h2>
+<h2>About me</h2>
 
 I am a Christian, all my lifestyle is based on my faith. I enjoy playing a lot of instruments besides the violin: viola, piano, electric bass, guitar, ukulele, and last but not least, the mandolin. I really enjoy hiking, and I'm in love with the Swiss mountains!
 
