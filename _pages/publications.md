@@ -25,6 +25,7 @@ author_profile: true
 
 ### Peer-reviewed journals
 <ul>
+<li>
 <b>G. A. D’Inverno</b>, M. Bianchini, M. L. Sampoli, F. Scarselli (2024). On the approximation capability of GNNs in node classification/regression tasks. <em>Soft Computing</em>.  [<a href="https://doi.org/10.1007/s00500-024-09676-1" target="_blank">DOI</a>]
 </li>
 <li>
@@ -41,7 +42,6 @@ A. Falini, <b>G. A. D'Inverno</b>, M. L. Sampoli, F. Mazzia (2022). Splines Para
 
 <li>
  <b>G. A. D’Inverno</b>, S. Brunetti,  M. L. Sampoli, D. F. Muresanu, A. Rufa, M. Bianchini (2021). Visual Sequential Search Test Analysis: An Algorithmic Approach. <em>Mathematics</em>, 9(22), 2952. [<a href="https://doi.org/10.3390/math9222952" target="_blank">DOI</a>]
-\url{}
 </li>
 </ul>
 
