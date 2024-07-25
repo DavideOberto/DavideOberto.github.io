@@ -21,6 +21,7 @@ author_profile: true
 ## Submitted
 
 
+
 ## Published
 
 ### Peer-reviewed journals
@@ -47,10 +48,12 @@ A. Falini, <b>G. A. D'Inverno</b>, M. L. Sampoli, F. Mazzia (2022). Splines Para
 
 ### Conference Papers
 
+<ul>
 <li>
   C. Fontana, <b>G. A. D’Inverno</b>, N. Cappetti, (2024). Diagnostic Enface Imaging of Retinal Vascularization: Topological Reconstruction and Intersection Identification. In: Carfagni, M., Furferi, R., Di Stefano, P., Governi, L., Gherardini, F. (eds) <em>Design Tools and Methods in Industrial Engineering III. ADM 2023.</em> Lecture Notes in Mechanical Engineering. Springer, Cham. [<a href="https://doi.org/10.1007/978-3-031-58094-9\_5" target="_blank">DOI</a>]
 </li>
-
+</ul
+>
 ## Doctoral thesis
 <ul>
 <li>
