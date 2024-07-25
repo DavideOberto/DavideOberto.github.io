@@ -27,7 +27,7 @@ L. Desiderio, <b>G. A. D'Inverno</b>, M. L. Sampoli, A. Sestini. Hierarchical ma
 </li>
 
 <li>
-<b>G. A. D'Inverno</b>, M. Bianchini, F. Scarselli. VC dimension of Graph Neural Networks with Pfaffian activation functions. <em>arXiv</em>, 2023. [<a href="https://arxiv.org/abs/2401.12362" target="_blank">arXiv:2401.12362</a>] (Neural Networks, <em>Under review</em>)
+<b>G. A. D'Inverno</b>, M. Bianchini, F. Scarselli. VC dimension of Graph Neural Networks with Pfaffian activation functions. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/abs/2401.12362" target="_blank">arXiv:2401.12362</a>] (Neural Networks, <em>Under review</em>)
 </li>
 
 <li>
