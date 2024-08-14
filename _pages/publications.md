@@ -53,6 +53,7 @@ L. Desiderio, <b>G. A. D'Inverno</b>, M. L. Sampoli, A. Sestini. Hierarchical ma
 M. S. Bucarelli,  <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli, F. Silvestri (2024). A topological description of loss surfaces based on Betti Numbers. <em>Neural Networks</em>, 106465.  [<a href="https://doi.org/10.1016/j.neunet.2024.106465" target="_blank">https://doi.org/10.1016/j.neunet.2024.106465</a>]
 </li>
 
+
 <li>
 S. Beddar-Wiesing,  <b>G. A. D’Inverno</b>, C. Graziani, V. Lachi, A. Moallemy-Oureh, F. Scarselli, J. M. Thomas (2024). Weisfeiler–Lehman goes dynamic: An analysis of the expressive power of graph neural networks for attributed and dynamic graphs. <em>Neural Networks</em>, 106213.  [<a href="https://doi.org/10.1016/j.neunet.2024.106213" target="_blank">https://doi.org/10.1016/j.neunet.2024.106213</a>]
 </li>
