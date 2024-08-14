@@ -47,23 +47,23 @@ L. Desiderio, <b>G. A. D'Inverno</b>, M. L. Sampoli, A. Sestini. Hierarchical ma
 ### Peer-reviewed journals
 <ul>
 <li>
-<b>G. A. D’Inverno</b>, M. Bianchini, M. L. Sampoli, F. Scarselli (2024). On the approximation capability of GNNs in node classification/regression tasks. <em>Soft Computing</em>, 1-21.  [<a href="https://doi.org/10.1007/s00500-024-09676-1" target="_blank">https://doi.org/10.1007/s00500-024-09676-1</a>]
+<b>G. A. D’Inverno</b>, M. Bianchini, M. L. Sampoli, F. Scarselli (2024). On the approximation capability of GNNs in node classification/regression tasks. <em>Soft Computing</em>, 1-21.  <a href="https://doi.org/10.1007/s00500-024-09676-1" target="_blank">https://doi.org/10.1007/s00500-024-09676-1</a>
 </li>
 <li>
-M. S. Bucarelli,  <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli, F. Silvestri (2024). A topological description of loss surfaces based on Betti Numbers. <em>Neural Networks</em>, 106465.  [<a href="https://doi.org/10.1016/j.neunet.2024.106465" target="_blank">https://doi.org/10.1016/j.neunet.2024.106465</a>]
+M. S. Bucarelli,  <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli, F. Silvestri (2024). A topological description of loss surfaces based on Betti Numbers. <em>Neural Networks</em>, 106465.  <a href="https://doi.org/10.1016/j.neunet.2024.106465" target="_blank">https://doi.org/10.1016/j.neunet.2024.106465</a>
 </li>
 
 
 <li>
-S. Beddar-Wiesing,  <b>G. A. D’Inverno</b>, C. Graziani, V. Lachi, A. Moallemy-Oureh, F. Scarselli, J. M. Thomas (2024). Weisfeiler–Lehman goes dynamic: An analysis of the expressive power of graph neural networks for attributed and dynamic graphs. <em>Neural Networks</em>, 106213.  [<a href="https://doi.org/10.1016/j.neunet.2024.106213" target="_blank">https://doi.org/10.1016/j.neunet.2024.106213</a>]
-</li>
-
-<li>
-A. Falini, <b>G. A. D'Inverno</b>, M. L. Sampoli, F. Mazzia (2022). Splines Parameterization of Planar Domains by Physics-Informed Neural Networks. <em>Mathematics</em>, 11(10), 2406.  [<a href="https://doi.org/10.3390/math11102406" target="_blank">https://doi.org/10.3390/math11102406</a>]
+S. Beddar-Wiesing,  <b>G. A. D’Inverno</b>, C. Graziani, V. Lachi, A. Moallemy-Oureh, F. Scarselli, J. M. Thomas (2024). Weisfeiler–Lehman goes dynamic: An analysis of the expressive power of graph neural networks for attributed and dynamic graphs. <em>Neural Networks</em>, 106213.  <a href="https://doi.org/10.1016/j.neunet.2024.106213" target="_blank">https://doi.org/10.1016/j.neunet.2024.106213</a>
 </li>
 
 <li>
- <b>G. A. D’Inverno</b>, S. Brunetti,  M. L. Sampoli, D. F. Muresanu, A. Rufa, M. Bianchini (2021). Visual Sequential Search Test Analysis: An Algorithmic Approach. <em>Mathematics</em>, 9(22), 2952. [<a href="https://doi.org/10.3390/math9222952" target="_blank">https://doi.org/10.3390/math9222952</a>]
+A. Falini, <b>G. A. D'Inverno</b>, M. L. Sampoli, F. Mazzia (2022). Splines Parameterization of Planar Domains by Physics-Informed Neural Networks. <em>Mathematics</em>, 11(10), 2406.  <a href="https://doi.org/10.3390/math11102406" target="_blank">https://doi.org/10.3390/math11102406</a>
+</li>
+
+<li>
+ <b>G. A. D’Inverno</b>, S. Brunetti,  M. L. Sampoli, D. F. Muresanu, A. Rufa, M. Bianchini (2021). Visual Sequential Search Test Analysis: An Algorithmic Approach. <em>Mathematics</em>, 9(22), 2952. <a href="https://doi.org/10.3390/math9222952" target="_blank">https://doi.org/10.3390/math9222952</a>
 </li>
 </ul>
 
