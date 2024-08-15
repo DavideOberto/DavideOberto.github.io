@@ -20,7 +20,7 @@ My research interests focus on the theoretical analysis of Deep Learning Models 
 
 <h2>About me</h2>
 
-I am a Christian, all my lifestyle is based on my faith. I enjoy playing a lot of instruments besides the violin: viola, piano, electric bass, guitar, ukulele, and last but not least, the mandolin. I really enjoy hiking, and I'm in love with the Swiss mountains!
+I am a Christian, all my lifestyle is based on my faith. I enjoy playing a lot of instruments besides the violin: viola, piano, electric bass, guitar, ukulele, and last but not least, the mandolin. I really enjoy hiking; as a matter of fact, in love with the Swiss mountains!
 
 <!-- PROVAAAAA
 I am an <b>assistant professor (RtdA)</b> at the Department of Mathematics "Tullio Levi-Civita", University of Padua (Italy).

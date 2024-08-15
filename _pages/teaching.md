@@ -9,25 +9,29 @@ author_profile: true
 
 ## Teaching
 * a.y. 2023/24 
-    * <em>"Calcolo Numerico”</em>, first cycle degree in Chemical and Materials Engineering, University of Padua. Teaching (56h.)
+    * <em>"Discrete Mathematics \& Theory 2”</em>, CET Academic Programs for Virginia University, Siena, Italy. Teaching (24h.)
 
-## Teaching assistance and tutoring
-* a.y. 2022/23 
-    * <em>"Calcolo Numerico”</em>, first cycle degree in Energy/Mechanical Engineering, University of Padua. Teaching (16h.)
-    * Research assistance for the course <em>“Computational Mathematics Project”</em>, Computational Mathematics (master) curriculum, TU Dresden
+## Teaching assistance
+* a.y. 2022/23
+    * <em>“Mathematical Analysis 2”</em>, first cycle degree in Mathematics/Information Engineering/Physics, University of Siena. Teaching assistance (50h.)
 
-* a.y. 2020/21 
-    * <em>“Matematica”</em>, first cycle degree in Agricultural Sciences and Technology, University of Padua. Didattica integrativa (30h.)
+* a.y. 2021/22
+    * <em>“Mathematical Analysis 2”</em>, first cycle degree in Mathematics/Information Engineering/Physics. Teaching assistance (50h.)
+    * <em>“Numerical Calculus”</em>, first cycle degree in Mathematics/Information Engineering/Physics. Teaching assistance (20h.)
+    * <em>“Linear Algebra”</em>, first cycle degree in Mathematics/Information Engineering/Physics. Teaching assistance (30h.)
+
+* a.y. 2020/21
+    * <em>“Linear Algebra”</em>, first cycle degree in Mathematics/Information Engineering/Physics. Teaching assistance (50h.)
 
 * a.y. 2019/20 
-    * <em>"Calcolo Numerico”</em>, first cycle degree in Chemical and Materials Engineering, University of Padua. Teaching (48h.)
-    * <em>“Calcolo Numerico”</em>, first cycle degree in Computer Science, University of Padua. Didattica integrativa (16h.)
-
-* a.y. 2016/17 
-    * Tutor for the course <em>”Analisi Matematica 1”</em> held by Prof. Olga Bernardi, University of Padua
+    * <em>Invited lesson in Numerical Analysis</em>, Master degree in Applied Mathematics, University of Siena.
 
 ## Supervision
 
-* Co-supervision of 2 Master’s degree thesis in Mathematics, University of Padua
-   * L. Favero (2022). Intrinsic FEM for Vector Laplacian equations
-   * L. Donà (2020). Bathymetry reconstruction via a time-dependent intrinsic shallow water model
+* Co-supervision of 2 Master’s degree thesis in Applied Mathematics, University of Siena
+   * H. C. Konan (2020). One Dimensional Model of Navier-Stokes Equations for the Arterial Blood Flow
+   * F. Cenni (2019). Different classes of tensors for modeling rater agreement data
+
+* Co-supervision of 2 Bachelor’s degree thesis in Mathematics, University of Siena
+   * S. Corsi (2023). Studio di formule di quadratura per l'approssimazione numerica di integrali singolari ed ipersingolari
+   * D. Bagno (2023). Analisi di sopravvivenza su dati clinici tramite il metodo di Kaplan-Meier
