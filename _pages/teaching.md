@@ -9,7 +9,7 @@ author_profile: true
 
 ## Teaching
 * a.y. 2023/24 
-    * <em>"Discrete Mathematics \& Theory 2”</em>, CET Academic Programs for Virginia University, Siena, Italy. Teaching (24h.)
+    * <em>"Discrete Mathematics & Theory 2”</em>, CET Academic Programs for Virginia University, Siena, Italy. Teaching (24h.)
 
 ## Teaching assistance
 * a.y. 2022/23
