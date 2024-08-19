@@ -47,7 +47,7 @@ L. Desiderio, <b>G. A. D'Inverno</b>, M. L. Sampoli, A. Sestini. Hierarchical ma
 ### Peer-reviewed journals
 <ul>
 <li>
-<b>G. A. D’Inverno</b>, M. Bianchini, M. L. Sampoli, F. Scarselli (2024). On the approximation capability of GNNs in node classification/regression tasks. <em>Soft Computing</em>, 1-21.  <a href="https://doi.org/10.1007/s00500-024-09676-1" target="_blank">https://doi.org/10.1007/s00500-024-09676-1</a>
+<b>G. A. D’Inverno</b>, M. Bianchini, M. L. Sampoli, F. Scarselli (2024). On the approximation capability of GNNs in node classification/regression tasks. <em>Soft Computing</em>, 28, 8527–8547.  <a href="https://doi.org/10.1007/s00500-024-09676-1" target="_blank">https://doi.org/10.1007/s00500-024-09676-1</a>
 </li>
 <li>
 M. S. Bucarelli,  <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli, F. Silvestri (2024). A topological description of loss surfaces based on Betti Numbers. <em>Neural Networks</em>, 106465.  <a href="https://doi.org/10.1016/j.neunet.2024.106465" target="_blank">https://doi.org/10.1016/j.neunet.2024.106465</a>
