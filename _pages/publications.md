@@ -31,7 +31,7 @@ L. Desiderio, <b>G. A. D'Inverno</b>, M. L. Sampoli, A. Sestini. Hierarchical ma
 </li>
 
 <li>
-<b>G. A. D'Inverno</b>, J. Dong. Extension of Recurrent Kernels to different Reservoir Computing topologies. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/abs/2401.14557" target="_blank">arXiv:2401.14557</a>] (Neurocomputing, <em>First Revision</em>)
+<b>G. A. D'Inverno</b>, J. Dong. Extension of Recurrent Kernels to different Reservoir Computing topologies. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/abs/2401.14557" target="_blank">arXiv:2401.14557</a>] (Neurocomputing, <em>Accepted</em>)
 </li>
 
 <li>
