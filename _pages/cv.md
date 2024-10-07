@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Extended version of the CV [here](/files/Giuseppe_Alessio_DInverno_CV.pdf) (last update: August 30, 2024)
+Extended version of the CV [here](/files/Giuseppe_Alessio_DInverno_CV.pdf) (last update: October 07, 2024)
 
 Education
 ======
@@ -57,7 +57,7 @@ Reviewer for
 =====
 * IEEE Transaction on Neural Network and Learning Systems
 * Neural Networks
-* Applied Mathematics and Computation
+* Applied Numerical Mathematics
 * Soft Computing
 * Neurocomputing
 * ECMLPKDD

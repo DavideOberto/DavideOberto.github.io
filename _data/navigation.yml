@@ -3,6 +3,9 @@ main:
   # - title: "Research"
   #   url: /research/
 
+  - title: "What's new"
+    url: /_posts/
+
   - title: "Publications"
     url: /publications/
 

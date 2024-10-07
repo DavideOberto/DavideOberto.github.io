@@ -28,9 +28,12 @@ author_profile: true
 
 ## Supervision
 
+* Co-supervision of 1 Master's degree thesis in Mathematics, Concordia University, Montréal (CA)
+    * K. Avalon (2024). Surrogate Models for diffusion on graphs: a high-dimensional polynomial approach
+
 * Co-supervision of 2 Master’s degree thesis in Applied Mathematics, University of Siena
-   * H. C. Konan (2020). One Dimensional Model of Navier-Stokes Equations for the Arterial Blood Flow
-   * F. Cenni (2019). Different classes of tensors for modeling rater agreement data
+   * H. C. Konan (2021). One Dimensional Model of Navier-Stokes Equations for the Arterial Blood Flow
+   * F. Cenni (2020). Different classes of tensors for modeling rater agreement data
 
 * Co-supervision of 2 Bachelor’s degree thesis in Mathematics, University of Siena
    * S. Corsi (2023). Studio di formule di quadratura per l'approssimazione numerica di integrali singolari ed ipersingolari

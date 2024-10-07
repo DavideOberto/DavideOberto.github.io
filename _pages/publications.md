@@ -30,12 +30,10 @@ L. Desiderio, <b>G. A. D'Inverno</b>, M. L. Sampoli, A. Sestini. Hierarchical ma
 <b>G. A. D'Inverno</b>, M. Bianchini, F. Scarselli. VC dimension of Graph Neural Networks with Pfaffian activation functions. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/abs/2401.12362" target="_blank">arXiv:2401.12362</a>] (Neural Networks, <em>Under review</em>)
 </li>
 
-<li>
-<b>G. A. D'Inverno</b>, J. Dong. Extension of Recurrent Kernels to different Reservoir Computing topologies. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/abs/2401.14557" target="_blank">arXiv:2401.14557</a>] (Neurocomputing, <em>Accepted</em>)
-</li>
+
 
 <li>
-<b>G. A. D'Inverno</b>, S. Brugiapaglia, M. Ravanelli. Generalization Limits of Graph Neural Networks in Identity Effects Learning. <em>arXiv</em>, 2023. [<a href="https://arxiv.org/abs/2307.00134" target="_blank">arXiv:2307.00134</a>] (Neural Networks, <em>Under review</em>)
+<b>G. A. D'Inverno</b>, S. Brugiapaglia, M. Ravanelli. Generalization Limits of Graph Neural Networks in Identity Effects Learning. <em>arXiv</em>, 2023. [<a href="https://arxiv.org/abs/2307.00134" target="_blank">arXiv:2307.00134</a>] (Neural Networks, <em>Accepted</em>)
 </li>
 
 </ul>
@@ -46,6 +44,11 @@ L. Desiderio, <b>G. A. D'Inverno</b>, M. L. Sampoli, A. Sestini. Hierarchical ma
 
 ### Peer-reviewed journals
 <ul>
+
+<li>
+<b>G. A. D'Inverno</b>, J. Dong (2024). Comparison of Reservoir Computing topologies using the Recurrent Kernel approach.  <em>Neurocomputing</em>, 128679. <a href="https://doi.org/10.1016/j.neucom.2024.128679" target="_blank">https://doi.org/10.1016/j.neucom.2024.128679 </a>
+</li>
+
 <li>
 <b>G. A. D’Inverno</b>, M. Bianchini, M. L. Sampoli, F. Scarselli (2024). On the approximation capability of GNNs in node classification/regression tasks. <em>Soft Computing</em>, 28, 8527–8547.  <a href="https://doi.org/10.1007/s00500-024-09676-1" target="_blank">https://doi.org/10.1007/s00500-024-09676-1</a>
 </li>
