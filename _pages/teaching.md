@@ -9,9 +9,11 @@ author_profile: true
 
 ## Teaching
 * a.y. 2023/24 
-    * <em>"Discrete Mathematics & Theory 2”</em>, CET Academic Programs for Virginia University, Siena, Italy. Teaching (24h.)
+    * <em>“Discrete Mathematics & Theory 2”</em>, CET Academic Programs for Virginia University, Siena, Italy. Teaching (24h.)
 
 ## Teaching assistance
+* a.y. 2024/2025
+    * <em>“Advanced Programming”</em>, Master Degree in Data Science and Scientific Computing, SISSA/ University of Trieste. Teaching assistance (14h.)
 * a.y. 2022/23
     * <em>“Mathematical Analysis 2”</em>, first cycle degree in Mathematics/Information Engineering/Physics, University of Siena. Teaching assistance (50h.)
 
