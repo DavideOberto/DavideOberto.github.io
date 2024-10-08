@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Extended version of the CV [here](/files/Giuseppe_Alessio_DInverno_CV.pdf) (last update: October 08, 2024)
+Extended version of the CV [here](https://external.ink?to=/files/Giuseppe_Alessio_DInverno_CV.pdf) (last update: October 08, 2024)
 
 Education
 ======
