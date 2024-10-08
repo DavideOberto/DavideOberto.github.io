@@ -27,6 +27,10 @@ L. Desiderio, <b>G. A. D'Inverno</b>, M. L. Sampoli, A. Sestini. Hierarchical ma
 </li> -->
 
 <li>
+<b>G. A. D'Inverno</b>, Saeid Moradizadeh, Sajad Salavatidezfouli, Pasquale Claudio Africa, Gianluigi Rozza. Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/abs/2410.03802" target="_blank">arXiv:2410.03802</a>] (Biomechanics and Modeling in Mechanobiology, <em>Under review</em>)
+</li>
+
+<li>
 <b>G. A. D'Inverno</b>, M. Bianchini, F. Scarselli. VC dimension of Graph Neural Networks with Pfaffian activation functions. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/abs/2401.12362" target="_blank">arXiv:2401.12362</a>] (Neural Networks, <em>Under review</em>)
 </li>
 
