@@ -25,21 +25,19 @@ author_profile: true
 <!-- <li>
 L. Desiderio, <b>G. A. D'Inverno</b>, M. L. Sampoli, A. Sestini. Hierarchical matrices for 3D Helmholtz problems in the multi-patch IgA-BEM setting.  (Computer Methods in Applied Mechanics and Engineering, <em>Under review</em>)
 </li> -->
-<li>
+<!-- <li>
 A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini. Physics-Informed GNN for non-linear constrained optimization: PINCO a solver for the AC-optimal power flow. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/pdf/2410.04818" target="_blank"> arXiv:2410.04818</a>] (ICLR 2025, <em>Under review</em>)
-</li>
+</li> -->
 
 <li>
 <b>G. A. D'Inverno</b>, Saeid Moradizadeh, Sajad Salavatidezfouli, Pasquale Claudio Africa, Gianluigi Rozza. Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/abs/2410.03802" target="_blank">arXiv:2410.03802</a>] (Biomechanics and Modeling in Mechanobiology, <em>Under review</em>)
 </li>
 
-<li>
-<b>G. A. D'Inverno</b>, M. Bianchini, F. Scarselli. VC dimension of Graph Neural Networks with Pfaffian activation functions. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/abs/2401.12362" target="_blank">arXiv:2401.12362</a>] (Neural Networks, <em>First Revision</em>)
-</li>
 
-<li>
+
+<!-- <li>
 L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Description of Networks. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/pdf/2402.06768" target="_blank">arXiv:2402.06768</a>] (SIAM Journal of Applied Algebra and Geometry, <em>Under Review</em>)
-</li>
+</li> -->
 
 </ul>
 
@@ -49,6 +47,10 @@ L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Descri
 
 ### Peer-reviewed journals
 <ul>
+
+<li>
+<b>G. A. D'Inverno</b>, M. Bianchini, F. Scarselli (2024). VC dimension of Graph Neural Networks with Pfaffian activation functions. <em>Neural Networks/em>, 106924. [<a href="https://doi.org/10.1016/j.neunet.2024.106924" target="_blank">https://doi.org/10.1016/j.neunet.2024.106924</a>]
+</li>
 
 <li>
 <b>G. A. D'Inverno</b>, S. Brugiapaglia, M. Ravanelli (2024). Generalization Limits of Graph Neural Networks in Identity Effects Learning. <em>Neural Networks</em>, 106793. [<a href="https://doi.org/10.1016/j.neunet.2024.106793" target="_blank">https://doi.org/10.1016/j.neunet.2024.106793</a>]
