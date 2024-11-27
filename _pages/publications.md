@@ -49,7 +49,7 @@ L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Descri
 <ul>
 
 <li>
-<b>G. A. D'Inverno</b>, M. Bianchini, F. Scarselli (2024). VC dimension of Graph Neural Networks with Pfaffian activation functions. <em>Neural Networks/em>, 106924. [<a href="https://doi.org/10.1016/j.neunet.2024.106924" target="_blank">https://doi.org/10.1016/j.neunet.2024.106924</a>]
+<b>G. A. D'Inverno</b>, M. Bianchini, F. Scarselli (2024). VC dimension of Graph Neural Networks with Pfaffian activation functions. <em>Neural Networks</em>, 106924. [<a href="https://doi.org/10.1016/j.neunet.2024.106924" target="_blank">https://doi.org/10.1016/j.neunet.2024.106924</a>]
 </li>
 
 <li>
