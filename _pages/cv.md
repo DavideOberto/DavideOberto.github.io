@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Extended version of the CV <a href="/files/Giuseppe_Alessio_DInverno_CV.pdf" target="_blank">here</a> (last update: January 09, 2025)
+Extended version of the CV <a href="/files/Giuseppe_Alessio_DInverno_CV.pdf" target="_blank">here</a> (last update: January 16, 2025)
 
 
 
@@ -59,6 +59,7 @@ Reviewer for
 =====
 * International Conference for Learning Representation (ICLR)
 * IEEE Transaction on Neural Network and Learning Systems
+* Nature Communications
 * Neural Networks
 * Applied Numerical Mathematics
 * Soft Computing
