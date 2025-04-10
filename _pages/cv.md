@@ -28,6 +28,7 @@ Research experience
   
 International mobility
 =====
+* Feb 2025 - June 2025: <em>Visiting researcher</em> at Concordia University & Montréal Institute for Learning Algorithms (MILA) (Working with Prof. S. Brugiapaglia & Prof. M. Ravanelli). Montréal (CA)
 * Feb 2023 - May 2023: <em>Visiting PhD student</em> at Montréal Institute for Learning Algorithms (MILA) (Working with Prof. M. Ravanelli & S. Brugiapaglia). Montréal (CA)
 * May 2022 - Sep 2022: <em>Visiting PhD student</em> at Biomedical Imaging Group (Working with Prof. M. Unser). EPFL, Lausanne (CH)
 
