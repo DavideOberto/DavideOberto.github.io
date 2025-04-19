@@ -21,16 +21,18 @@ author_profile: true
 <ul>
 
 <li>
-L. Desiderio, <b>G. A. D'Inverno</b>, M. L. Sampoli, A. Sestini. Hierarchical matrices for 3D Helmholtz problems in the multi-patch IgA-BEM setting. Engineering with Computers, <em>Accepted </em> 
+L. Desiderio, <b>G. A. D'Inverno</b>, M. L. Sampoli, A. Sestini. Hierarchical matrices for 3D Helmholtz problems in the multi-patch IgA-BEM setting (2025). Engineering with Computers, <em>Accepted</em> 
+</li>
+
+<li>
+<b>G. A. D'Inverno</b>, Saeid Moradizadeh, Sajad Salavatidezfouli, Pasquale Claudio Africa, Gianluigi Rozza. Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction (2025). Journal of Computational and Applied Mathematics, <em>Accepted</em>
 </li>
 
 <li>
 <b>G. A. D'Inverno</b>, K. Ajavon, S. Brugiapaglia. Surrogate models for diffusion on graphs via sparse polynomials (2025). [<a href="http://arxiv.org/abs/2502.06595" target="_blank">arXiv:2502.06595</a>] (<em>Under review</em>).
 </li>
 
-<li>
-<b>G. A. D'Inverno</b>, Saeid Moradizadeh, Sajad Salavatidezfouli, Pasquale Claudio Africa, Gianluigi Rozza. Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/abs/2410.03802" target="_blank">arXiv:2410.03802</a>] (<em>Under review</em>)
-</li>
+
 
 <!-- <li>
 A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini. Physics-Informed GNN for non-linear constrained optimization: PINCO a solver for the AC-optimal power flow. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/pdf/2410.04818" target="_blank"> arXiv:2410.04818</a>] (ICLR 2025, <em>Under review</em>)
