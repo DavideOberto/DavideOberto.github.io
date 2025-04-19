@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Giuseppe Alessio D'Inverno"
 title_separator          : "-"
-name                     : &name "Giuseppe Alessio D'Inverno"
+name                     : &name "Giuseppe Alessio D'Inverno - Home"
 description              : &description "My personal website"
 url                      : https://AleDinve.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
