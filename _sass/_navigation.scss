@@ -193,7 +193,7 @@
     position: absolute;
     height: 100%;
     right: 0;
-    padding: 40 0.5rem;
+    padding: 0 0.5rem;
     border: 0;
     outline: none;
     background-color: $primary-color;
@@ -212,7 +212,7 @@
         font-weight: bold;
 
         a {
-          margin-left: 0;
+          margin-left: 40;
         }
       }
 
