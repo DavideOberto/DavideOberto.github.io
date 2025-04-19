@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Giuseppe Alessio D'Inverno"
+title                    : "Giuseppe Alessio D'Inverno - Home"
 title_separator          : "-"
-name                     : &name "Giuseppe Alessio D'Inverno - Home"
+name                     : &name "Giuseppe Alessio D'Inverno"
 description              : &description "My personal website"
 url                      : https://AleDinve.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
