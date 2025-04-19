@@ -43,8 +43,10 @@
 .masthead li:nth-child(1) {
     @media (min-width: 900px){
         padding-left: 32px
+        padding-right: 0px
     }
 }
+
 .masthead li:nth-child(2) {
     @media (min-width: 900px){
         padding-left: 140px
