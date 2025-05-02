@@ -24,9 +24,7 @@ author_profile: true
 L. Desiderio, <b>G. A. D'Inverno</b>, M. L. Sampoli, A. Sestini. Hierarchical matrices for 3D Helmholtz problems in the multi-patch IgA-BEM setting (2025). Engineering with Computers, <em>Accepted</em> 
 </li>
 
-<li>
-<b>G. A. D'Inverno</b>, Saeid Moradizadeh, Sajad Salavatidezfouli, Pasquale Claudio Africa, Gianluigi Rozza. Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction (2025). Journal of Computational and Applied Mathematics, <em>Accepted</em>
-</li>
+
 
 <li>
 <b>G. A. D'Inverno</b>, K. Ajavon, S. Brugiapaglia. Surrogate models for diffusion on graphs via sparse polynomials (2025). [<a href="http://arxiv.org/abs/2502.06595" target="_blank">arXiv:2502.06595</a>] (<em>Under review</em>).
@@ -52,27 +50,31 @@ L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Descri
 <ul>
 
 <li>
-<b>G. A. D'Inverno</b>, M. Bianchini, F. Scarselli (2024). VC dimension of Graph Neural Networks with Pfaffian activation functions. <em>Neural Networks</em>, 106924. [<a href="https://doi.org/10.1016/j.neunet.2024.106924" target="_blank">https://doi.org/10.1016/j.neunet.2024.106924</a>]
+<b>G. A. D'Inverno</b>, Saeid Moradizadeh, Sajad Salavatidezfouli, Pasquale Claudio Africa, Gianluigi Rozza (2025). Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction . <em>Journal of Computational and Applied Mathematics</em>, 470, 116727,  [<a href="https://doi.org/10.1016/j.cam.2025.116727" target="_blank">https://doi.org/10.1016/j.cam.2025.116727</a>]
 </li>
 
 <li>
-<b>G. A. D'Inverno</b>, S. Brugiapaglia, M. Ravanelli (2024). Generalization Limits of Graph Neural Networks in Identity Effects Learning. <em>Neural Networks</em>, 106793. [<a href="https://doi.org/10.1016/j.neunet.2024.106793" target="_blank">https://doi.org/10.1016/j.neunet.2024.106793</a>]
+<b>G. A. D'Inverno</b>, M. Bianchini, F. Scarselli (2024). VC dimension of Graph Neural Networks with Pfaffian activation functions. <em>Neural Networks</em>, 182, 106924. [<a href="https://doi.org/10.1016/j.neunet.2024.106924" target="_blank">https://doi.org/10.1016/j.neunet.2024.106924</a>]
 </li>
 
 <li>
-<b>G. A. D'Inverno</b>, J. Dong (2024). Comparison of Reservoir Computing topologies using the Recurrent Kernel approach.  <em>Neurocomputing</em>, 128679. <a href="https://doi.org/10.1016/j.neucom.2024.128679" target="_blank">https://doi.org/10.1016/j.neucom.2024.128679 </a>
+<b>G. A. D'Inverno</b>, S. Brugiapaglia, M. Ravanelli (2024). Generalization Limits of Graph Neural Networks in Identity Effects Learning. <em>Neural Networks</em>, 181, 106793. [<a href="https://doi.org/10.1016/j.neunet.2024.106793" target="_blank">https://doi.org/10.1016/j.neunet.2024.106793</a>]
+</li>
+
+<li>
+<b>G. A. D'Inverno</b>, J. Dong (2024). Comparison of Reservoir Computing topologies using the Recurrent Kernel approach.  <em>Neurocomputing</em>, 611, 128679. <a href="https://doi.org/10.1016/j.neucom.2024.128679" target="_blank">https://doi.org/10.1016/j.neucom.2024.128679 </a>
 </li>
 
 <li>
 <b>G. A. D’Inverno</b>, M. Bianchini, M. L. Sampoli, F. Scarselli (2024). On the approximation capability of GNNs in node classification/regression tasks. <em>Soft Computing</em>, 28, 8527–8547.  <a href="https://doi.org/10.1007/s00500-024-09676-1" target="_blank">https://doi.org/10.1007/s00500-024-09676-1</a>
 </li>
 <li>
-M. S. Bucarelli,  <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli, F. Silvestri (2024). A topological description of loss surfaces based on Betti Numbers. <em>Neural Networks</em>, 106465.  <a href="https://doi.org/10.1016/j.neunet.2024.106465" target="_blank">https://doi.org/10.1016/j.neunet.2024.106465</a>
+M. S. Bucarelli,  <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli, F. Silvestri (2024). A topological description of loss surfaces based on Betti Numbers. <em>Neural Networks</em>, 178, 106465.  <a href="https://doi.org/10.1016/j.neunet.2024.106465" target="_blank">https://doi.org/10.1016/j.neunet.2024.106465</a>
 </li>
 
 
 <li>
-S. Beddar-Wiesing,  <b>G. A. D’Inverno</b>, C. Graziani, V. Lachi, A. Moallemy-Oureh, F. Scarselli, J. M. Thomas (2024). Weisfeiler–Lehman goes dynamic: An analysis of the expressive power of graph neural networks for attributed and dynamic graphs. <em>Neural Networks</em>, 106213.  <a href="https://doi.org/10.1016/j.neunet.2024.106213" target="_blank">https://doi.org/10.1016/j.neunet.2024.106213</a>
+S. Beddar-Wiesing,  <b>G. A. D’Inverno</b>, C. Graziani, V. Lachi, A. Moallemy-Oureh, F. Scarselli, J. M. Thomas (2024). Weisfeiler–Lehman goes dynamic: An analysis of the expressive power of graph neural networks for attributed and dynamic graphs. <em>Neural Networks</em>, 173, 106213.  <a href="https://doi.org/10.1016/j.neunet.2024.106213" target="_blank">https://doi.org/10.1016/j.neunet.2024.106213</a>
 </li>
 
 <li>
