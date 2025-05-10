@@ -50,6 +50,10 @@ L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Descri
 <ul>
 
 <li>
+L. Desiderio, <b>G. A. D'Inverno</b>, M.L. Sampoli, A. Sestini (2025). Hierarchical matrices for 3D Helmholtz problems in the multi-patch IgA-BEM setting. <em>Engineering with Computers</em>, [<a href="https://doi.org/10.1007/s00366-025-02144-w" target="_blank">https://doi.org/10.1007/s00366-025-02144-w</a>]
+</li>
+
+<li>
 <b>G. A. D'Inverno</b>, Saeid Moradizadeh, Sajad Salavatidezfouli, Pasquale Claudio Africa, Gianluigi Rozza (2025). Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction . <em>Journal of Computational and Applied Mathematics</em>, 470, 116727,  [<a href="https://doi.org/10.1016/j.cam.2025.116727" target="_blank">https://doi.org/10.1016/j.cam.2025.116727</a>]
 </li>
 
