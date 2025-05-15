@@ -10,12 +10,6 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- ## In preparation
-<ul>
-<li>
-<b>E. Bachini</b> and M. Putti. Convergence analysis of the intrinsic surface finite element method. <em>arXiv</em>, 2022. [<a href="https://arxiv.org/abs/2203.07330" target="_blank">arXiv:2203.07330</a>]
-</li>
-</ul> -->
 
 ## Submitted
 <ul>
