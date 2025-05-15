@@ -31,7 +31,7 @@ author_profile: true
 ## Supervision
 
 * Co-supervision of 1 Master's degree thesis in Mathematics, Concordia University, Montréal (CA)
-    * K. Avalon (2024). Surrogate Models for diffusion on graphs: a high-dimensional polynomial approach
+    * K. Ajavon (2024). Surrogate Models for diffusion on graphs: a high-dimensional polynomial approach
 
 * Co-supervision of 2 Master’s degree thesis in Applied Mathematics, University of Siena
    * H. C. Konan (2021). One Dimensional Model of Navier-Stokes Equations for the Arterial Blood Flow
