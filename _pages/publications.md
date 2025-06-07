@@ -14,8 +14,11 @@ author_profile: true
 ## Submitted
 <ul>
 
+A. Poggi, <b>G. A. D'Inverno</b>, H. Brismar, O. Öktem, M. Barreau, K. Morozovska Data-driven multi-agent modelling of calcium interactions in cell culture: PINN vs Regularized Least-squares. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2505.20327" target="_blank">arXiv:2505.20327</a>]. <em>Under review</em>
+</li>
+
 <li>
-<b>G. A. D'Inverno</b>, K. Ajavon, S. Brugiapaglia. Surrogate models for diffusion on graphs via sparse polynomials (2025). [<a href="http://arxiv.org/abs/2502.06595" target="_blank">arXiv:2502.06595</a>]. <em>Under review</em>
+<b>G. A. D'Inverno</b>, K. Ajavon, S. Brugiapaglia. Surrogate models for diffusion on graphs via sparse polynomials. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2502.06595" target="_blank">arXiv:2502.06595</a>]. <em>Under review</em>
 </li>
 
 
