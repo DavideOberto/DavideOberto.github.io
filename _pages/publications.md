@@ -15,6 +15,14 @@ author_profile: true
 <ul>
 
 <li>
+B. T. Corradini, B. Cullen, C. Gallegati, S. Marziali, G. A. D’Inverno, M. Bianchini, F. Scarselli. Training Dynamics of GANs Through the Lens of Persistent Homology. 2025. <em>Under review</em>.
+</li>
+
+<li>
+<b>G. A. D'Inverno</b>, Z. Hu, L. Davy, M. Unser, G. Rozza, J. Dong. Revisiting Deep Information Propagation: Fractal Frontier and Finite-size Effects. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2508.03222" target="_blank">arXiv:2508.03222</a>]. <em>Under review</em>
+</li>
+
+<li>
 A. Poggi, <b>G. A. D'Inverno</b>, H. Brismar, O. Öktem, M. Barreau, K. Morozovska. Data-driven multi-agent modelling of calcium interactions in cell culture: PINN vs Regularized Least-squares. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2505.20327" target="_blank">arXiv:2505.20327</a>]. <em>Under review</em>
 </li>
 
