@@ -10,14 +10,14 @@ author_profile: true
 TBA
 ## Teaching assistance
 * a.y. 2024/2025
-    * <em>“Topics in Computational Fluid Dynamics”</em>, PhD course in Mathematical Analysis, Modelling, and Applications, SISSA. Teaching assistance (5h.). Main topics: dictretization through Finite Element Method (FEM) of Stokes equations (inf-sup condition and stabilization) and Navier-Stokes equations (fixed point and Newton algorithms for nonlinearity and time discretization)
+    * <em>“Topics in Computational Fluid Dynamics”</em>, PhD course in Mathematical Analysis, Modelling, and Applications, SISSA. Teaching assistance (5h). Main topics: dictretization through Finite Element Method (FEM) of Stokes equations (inf-sup condition and stabilization) and Navier-Stokes equations (fixed point and Newton algorithms for nonlinearity and time discretization)
 * a.y. 2023/2024
-    * <em>“Numerical methods and scientific computing”</em>, M.S. course in Aerospace Engineering, Politecnico di Torino. Teaching assistance (40h.). Main topics: Iterative methods for solving linear systems, preconditioners, nonlinear equations, ODEs, Finite Differences for 1D and 2D PDEs, FEM for 1D problems, numerical schemes for 1D conservation laws.
+    * <em>“Numerical methods and scientific computing”</em>, M.S. course in Aerospace Engineering, Politecnico di Torino. Teaching assistance (40h). Main topics: Iterative methods for solving linear systems, preconditioners, nonlinear equations, ODEs, Finite Differences for 1D and 2D PDEs, FEM for 1D problems, numerical schemes for 1D conservation laws.
 * a.y. 2022/2023
-    * <em>“Numerical methods and scientific computing”</em>, M.S. course in Aerospace Engineering, Politecnico di Torino. Teaching assistance (20h.). Main topics: see a.y. 2023/2024.
-    * <em>“Linear algebra and geometry”</em>, B.S. course for all engineering curricula, Politecnico di Torino. Teaching assistance (40h.). Main topics: floating-point representation, polynomial and spline interpolation in 1D, linear regression in 1D, direct methods for solving linear systems, eigenvalues computation and Singular Value Decomposition.
+    * <em>“Numerical methods and scientific computing”</em>, M.S. course in Aerospace Engineering, Politecnico di Torino. Teaching assistance (20h). Main topics: see a.y. 2023/2024.
+    * <em>“Linear algebra and geometry”</em>, B.S. course for all engineering curricula, Politecnico di Torino. Teaching assistance (40h). Main topics: floating-point representation, polynomial and spline interpolation in 1D, linear regression in 1D, direct methods for solving linear systems, eigenvalues computation and Singular Value Decomposition.
 * a.y. 2021/2022
-    * <em>“Linear algebra and geometry”</em>, B.S. course for all engineering curricula, Politecnico di Torino. Teaching assistance (40h.). Main topics: see a.y. 2022/2023.
+    * <em>“Linear algebra and geometry”</em>, B.S. course for all engineering curricula, Politecnico di Torino. Teaching assistance (40h). Main topics: see a.y. 2022/2023.
  
 ## Supervision
 
