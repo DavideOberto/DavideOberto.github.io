@@ -27,8 +27,8 @@ Research experience
   
 International mobility
 =====
-* Feb 2024 - May 2024: <em>Visiting PhD student</em> at Sauber Motorsport AG (Working with D. Francos). Hinwil (CH)
-* May 2023 - Aug 2023: <em>Visiting PhD student</em> at Sauber Motorsport AG (Working with D. Francos). Hinwil (CH)
+* Feb 2024 - May 2024: <em>Visiting PhD student</em> at Sauber Motorsport AG (Working with D. Fransos). Hinwil (CH)
+* May 2023 - Aug 2023: <em>Visiting PhD student</em> at Sauber Motorsport AG (Working with D. Fransos). Hinwil (CH)
 * Sep 2019 - Feb 2020: <em>Erasmus semester during M.S.</em> at École Centrale de Nantes in Computational Mechanics curricula. Nantes (FR)
 
 
