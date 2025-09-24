@@ -7,8 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-TBA 
- <!---
+TBA
+
+<!---
 ## Lecturer
 * a.y. 2023/24 
     * <em>“Discrete Mathematics & Theory 2”</em>, CET Academic Programs for Virginia University, Siena, Italy. Teaching (24h.)
