@@ -14,4 +14,4 @@ I got my PhD in Pure and Applied Mathematics at Politecnico di Torino in March 2
 
 <h2>Research Interests</h2>
 
-My research interests focus on Computational Fluid Dynamics (Finite Volume discretization, RANS turbulence modeling), Scientific Machine Learning (enhancing classic numerical schemes with ML), Reduced Order Modeling (intrusive and non-intrusive) and any combination of the three.
+My research interests focus on many Computational Fluid Dynamics related topics, for example Finite Volume discretization and RANS turbulence modeling, Scientific Machine Learning to enhance classic numerical schemes with ML, and Reduced Order Modeling, both projection-based and data-driven.
