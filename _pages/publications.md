@@ -46,5 +46,3 @@ L. Bruno, <b>D. Oberto</b> (2022). Effects of cell quality in grid boundary laye
 S. Berrone, <b>D. Oberto</b>, M. Pintore, G. Teora (2025). The Lowest-Order Neural Approximated Virtual Element Method. In: Sequeira, A., Silvestre, A., Valtchev, S.S., Janela, J. (eds) <em> Numerical Mathematics and Advanced Applications ENUMATH 2023, Volume 1. </em> Lecture Notes in Computational Science and Engineering. Springer,<a https://doi.org/10.1007/978-3-031-86173-4_13" target="_blank">https://doi.org/10.1007/978-3-031-86173-4_13</a>
 </li>
 </ul>
-
-</ul>
