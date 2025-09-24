@@ -49,13 +49,13 @@ L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Descri
 <ul>
 
 <li>
-L. Desiderio, <b>G. A. D'Inverno</b>, M.L. Sampoli, A. Sestini (2025). Hierarchical matrices for 3D Helmholtz problems in the multi-patch IgA-BEM setting. <em>Engineering with Computers</em>, <a href="https://doi.org/10.1007/s00366-025-02144-w" target="_blank">https://doi.org/10.1007/s00366-025-02144-w</a>
+<b>D. Oberto</b>, D. Fransos, S. Berrone (2025). Using Delayed Detached Eddy Simulation to create datasets for data-driven turbulence modeling: A periodic hills with parameterized geometry case. <em>Computers & Fluids/em>, <a href="[https://doi.org/10.1007/s00366-025-02144-w](https://doi.org/10.1016/j.compfluid.2024.106506)" target="_blank">https://doi.org/10.1007/s00366-025-02144-w</a>
 </li>
 
 <li>
 <b>G. A. D'Inverno</b>, Saeid Moradizadeh, Sajad Salavatidezfouli, Pasquale Claudio Africa, Gianluigi Rozza (2025). Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction . <em>Journal of Computational and Applied Mathematics</em>, 470, 116727,  <a href="https://doi.org/10.1016/j.cam.2025.116727" target="_blank">https://doi.org/10.1016/j.cam.2025.116727</a>
 </li>
-
+<!--- 
 <li>
 <b>G. A. D'Inverno</b>, M. Bianchini, F. Scarselli (2024). VC dimension of Graph Neural Networks with Pfaffian activation functions. <em>Neural Networks</em>, 182, 106924. <a href="https://doi.org/10.1016/j.neunet.2024.106924" target="_blank">https://doi.org/10.1016/j.neunet.2024.106924</a>
 </li>
@@ -86,7 +86,8 @@ A. Falini, <b>G. A. D'Inverno</b>, M. L. Sampoli, F. Mazzia (2022). Splines Para
 
 <li>
  <b>G. A. D’Inverno</b>, S. Brunetti,  M. L. Sampoli, D. F. Muresanu, A. Rufa, M. Bianchini (2021). Visual Sequential Search Test Analysis: An Algorithmic Approach. <em>Mathematics</em>, 9(22), 2952. <a href="https://doi.org/10.3390/math9222952" target="_blank">https://doi.org/10.3390/math9222952</a>
-</li>
+</li> 
+-->
 </ul>
 
 ### Conference Papers
