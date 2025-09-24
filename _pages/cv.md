@@ -9,28 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Extended version of the CV <a href="/files/Giuseppe_Alessio_DInverno_CV.pdf" target="_blank">here</a> (last update: August 9th, 2025)
+Extended version of the CV <a href="/files/Davide_Oberto_CV.pdf" target="_blank">here</a>
 
 
 
 Education
 ======
-* 2024 - Ph.D in Information Engineering & Science, University of Siena, Italy
-* 2020 - M.S. in Applied Mathematics, University of Siena, Italy 
-* 2018 - B.S. in Mathematics, University of Siena, Italy
-* 2015 - B.A. in Violin, Conservatorio "R.Franci", Siena, Italy 
+* 2025 - Ph.D in Pure and Applied Mathematics, Politecnico di Torino, Italy
+* 2020 - M.S. in Applied Mathematics, Politecnico di Torino, Italy 
+* 2018 - B.S. in Mathematics, Politecnico di Torino, Italy
 
 Research experience
 =====
-* Feb 2024 - present: Postdoctoral research fellow
+* Nov 2025 - present: Postdoctoral research fellow
   * MathLab, Mathematics Area, SISSA, Trieste, Italy
 
   
 International mobility
 =====
-* Feb 2025 - June 2025: <em>Visiting researcher</em> at Concordia University & Montréal Institute for Learning Algorithms (MILA) (Working with Prof. S. Brugiapaglia & Prof. M. Ravanelli). Montréal (CA)
-* Feb 2023 - May 2023: <em>Visiting PhD student</em> at Montréal Institute for Learning Algorithms (MILA) (Working with Prof. M. Ravanelli & S. Brugiapaglia). Montréal (CA)
-* May 2022 - Sep 2022: <em>Visiting PhD student</em> at Biomedical Imaging Group (Working with Prof. M. Unser). EPFL, Lausanne (CH)
+* Feb 2024 - May 2024: <em>Visiting PhD student</em> at Sauber Motorsport AG (Working with D. Francos). Hinwil (CH)
+* May 2023 - Aug 2023: <em>Visiting PhD student</em> at Sauber Motorsport AG (Working with D. Francos). Hinwil (CH)
+* Sep 2019 - Feb 2020: <em>Erasmus during M.S.</em> at École Centrale de Nantes in Computational Mechanics curricula. Nantes (FR)
 
 
 <!-- continua a modificare
@@ -58,18 +57,9 @@ Awards and fellowships
 
 Reviewer for
 =====
-* International Conference for Learning Representation (ICLR)
-* IEEE Transaction on Neural Network and Learning Systems
-* Nature Communications
-* Neural Networks
-* Applied Numerical Mathematics
-* Soft Computing
-* Neurocomputing
-* ECMLPKDD
-* Opuscula Mathematica
+* Journal of Computational Physics (JCP)
 
 
 Scientific societies
 =====
-* from 2022: Member of "UMI-Math & AI & ML", Member of "UMI-SIMAI"
-* from 2021: Member of the "Gruppo Nazionale Calcolo Scientifico" (GNCS) of the Istituto di Alta Matematica (INdAM)
+* from 2022: Member of the "Gruppo Nazionale Calcolo Scientifico" (GNCS) of the Istituto di Alta Matematica (INdAM)
