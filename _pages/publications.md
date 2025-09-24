@@ -5,38 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 <!--- 
-  You can also find my articles on <u><a href="[https://scholar.google.com/citations?user=JsXiefkAAAAJ&hl=it](https://scholar.google.com/citations?user=NvVY4aIAAAAJ&hl=it&oi=ao)" target="_blank">my Google Scholar profile</a>.</u>
-
-
-{% include base_path %}
-
 
 ## Submitted
 <ul>
 
 <li>
 B. T. Corradini, B. Cullen, C. Gallegati, S. Marziali, <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli. Training Dynamics of GANs Through the Lens of Persistent Homology. 2025. <em>Under review</em>.
-</li>
-
-<li>
-<b>G. A. D'Inverno</b>, Z. Hu, L. Davy, M. Unser, G. Rozza, J. Dong. Revisiting Deep Information Propagation: Fractal Frontier and Finite-size Effects. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2508.03222" target="_blank">arXiv:2508.03222</a>]. <em>Under review</em>
-</li>
-
-<li>
-A. Poggi, <b>G. A. D'Inverno</b>, H. Brismar, O. Öktem, M. Barreau, K. Morozovska. Data-driven multi-agent modelling of calcium interactions in cell culture: PINN vs Regularized Least-squares. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2505.20327" target="_blank">arXiv:2505.20327</a>]. <em>Under review</em>
-</li>
-
-<li>
-<b>G. A. D'Inverno</b>, K. Ajavon, S. Brugiapaglia. Surrogate models for diffusion on graphs via sparse polynomials. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2502.06595" target="_blank">arXiv:2502.06595</a>].
-</li> 
-
-
-<li>
-A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini. Physics-Informed GNN for non-linear constrained optimization: PINCO a solver for the AC-optimal power flow. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/pdf/2410.04818" target="_blank"> arXiv:2410.04818</a>] (ICLR 2025, <em>Under review</em>)
-</li> 
-
-<li>
-L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Description of Networks. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/pdf/2402.06768" target="_blank">arXiv:2402.06768</a>]. <em>Under review</em>
 </li>
 
 </ul> -->
