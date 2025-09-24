@@ -28,10 +28,10 @@ A. Poggi, <b>G. A. D'Inverno</b>, H. Brismar, O. Öktem, M. Barreau, K. Morozovs
 
 <li>
 <b>G. A. D'Inverno</b>, K. Ajavon, S. Brugiapaglia. Surrogate models for diffusion on graphs via sparse polynomials. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2502.06595" target="_blank">arXiv:2502.06595</a>].
-</li> -->
+</li> 
 
 
-<!-- <li>
+<li>
 A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini. Physics-Informed GNN for non-linear constrained optimization: PINCO a solver for the AC-optimal power flow. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/pdf/2410.04818" target="_blank"> arXiv:2410.04818</a>] (ICLR 2025, <em>Under review</em>)
 </li> -->
 
@@ -39,7 +39,7 @@ A. Varbella, D. Briens, B. Gjorgiev, <b>G. A. D'Inverno</b>, G. Sansavini. Physi
 L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Description of Networks. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/pdf/2402.06768" target="_blank">arXiv:2402.06768</a>]. <em>Under review</em>
 </li>
 
-</ul>
+</ul> -->
 
 
 
