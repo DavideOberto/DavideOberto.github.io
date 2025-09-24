@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+TBA 
+ <!---
 ## Lecturer
 * a.y. 2023/24 
     * <em>“Discrete Mathematics & Theory 2”</em>, CET Academic Programs for Virginia University, Siena, Italy. Teaching (24h.)
@@ -40,3 +42,5 @@ author_profile: true
 * Co-supervision of 2 Bachelor’s degree thesis in Mathematics, University of Siena
    * S. Corsi (2023). Studio di formule di quadratura per l'approssimazione numerica di integrali singolari ed ipersingolari
    * D. Bagno (2023). Analisi di sopravvivenza su dati clinici tramite il metodo di Kaplan-Meier
+
+-->
