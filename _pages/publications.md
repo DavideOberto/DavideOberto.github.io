@@ -54,8 +54,7 @@ L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Descri
 
 <li>
 S. Berrone, <b>D. Oberto</b> (2022). An invariances-preserving vector basis neural network for the closure of Reynolds-averaged Navier–Stokes equations by the divergence of the Reynolds stress tensor. <em>Physics of Fluids</em>, <a href="
-https://doi.org/10.1063/5.0104605" target="_blank">
-https://doi.org/10.1063/5.0104605</a>
+https://doi.org/10.1063/5.0104605" target="_blank">https://doi.org/10.1063/5.0104605</a>
 </li>
 
 L. Bruno, <b>D. Oberto</b> (2022). Effects of cell quality in grid boundary layer on the simulated flow around a square cylinder. <em>Computers & Fluids</em>, <a href="https://doi.org/10.1016/j.compfluid.2022.105351" target="_blank">https://doi.org/10.1016/j.compfluid.2022.105351</a>
