@@ -49,7 +49,7 @@ L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Descri
 <ul>
 
 <li>
-<b>D. Oberto</b>, D. Fransos, S. Berrone (2025). Using Delayed Detached Eddy Simulation to create datasets for data-driven turbulence modeling: A periodic hills with parameterized geometry case. <em>Computers & Fluids</em>, <a href="[https://doi.org/10.1007/s00366-025-02144-w](https://doi.org/10.1016/j.compfluid.2024.106506)" target="_blank">https://doi.org/10.1007/s00366-025-02144-w</a>
+<b>D. Oberto</b>, D. Fransos, S. Berrone (2025). Using Delayed Detached Eddy Simulation to create datasets for data-driven turbulence modeling: A periodic hills with parameterized geometry case. <em>Computers & Fluids</em>, <a href="https://doi.org/10.1016/j.compfluid.2024.106506" target="_blank">https://doi.org/10.1016/j.compfluid.2024.106506</a>
 </li>
 
 <li>
