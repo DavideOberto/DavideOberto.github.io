@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Giuseppe Alessio D'Inverno"
+title                    : "Davide Oberto"
 title_separator          : "-"
-name                     : &name "Giuseppe Alessio D'Inverno"
+name                     : &name "Davide Oberto"
 description              : &description "My personal website"
-url                      : https://AleDinve.github.io 
+url                      : https://DavideOberto.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AleDinve.github.io"
+repository               : "DavideOberto.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Giuseppe Alessio D'Inverno, PhD"
+  name             : "Davide Oberto, PhD"
   avatar           : "foto_profilo.jpg"
   bio              : "Postdoc Researcher @ SISSA"
   location         : "Trieste, Italy"
   employer         :
   pubmed           : 
-  email            : #"gdinvern@sissa.it"
-  googlescholar    : "https://scholar.google.com/citations?user=JsXiefkAAAAJ&hl=it"
-  researchgate     : "https://www.researchgate.net/profile/Giuseppe-Alessio-Dinverno"
+  email            : #"doberto@sissa.it"
+  googlescholar    : "https://scholar.google.com/citations?user=NvVY4aIAAAAJ&hl=it&oi=ao"
+  researchgate     : "https://www.researchgate.net/profile/Davide-Oberto?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : AleDinve
+  github           : DavideOberto
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "giuseppe-alessio-d-inverno"
-  orcid            : "https://orcid.org/0000-0001-7367-4354"
+  linkedin         : #"giuseppe-alessio-d-inverno"
+  orcid            : "https://orcid.org/0000-0001-8735-3148"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
