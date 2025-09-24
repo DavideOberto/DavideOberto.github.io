@@ -8,28 +8,23 @@ author_profile: true
 {% include base_path %}
 
 TBA
-
-<!---
-## Lecturer
-* a.y. 2023/24 
-    * <em>“Discrete Mathematics & Theory 2”</em>, CET Academic Programs for Virginia University, Siena, Italy. Teaching (24h.)
-
 ## Teaching assistance
 * a.y. 2024/2025
-    * <em>“Advanced Programming”</em>, Master Degree in Data Science and Scientific Computing, SISSA/ University of Trieste. Teaching assistance (14h.)
-* a.y. 2022/23
-    * <em>“Mathematical Analysis 2”</em>, first cycle degree in Mathematics/Information Engineering/Physics, University of Siena. Teaching assistance (50h.)
+    * <em>“Topics in Computational Fluid Dynamics”</em>, PhD course in Mathematical Analysis, Modelling, and Applications, SISSA. Teaching assistance (5h.). Main topics: dictretization through Finite Element Method (FEM) of Stokes equations (inf-sup condition and stabilization) and Navier-Stokes equations (fixed point and Newton algorithms for nonlinearity and time discretization)
+* a.y. 2023/2024
+    * <em>“Numerical methods and scientific computing”</em>, M.S. course in Aerospace Engineering, Politecnico di Torino. Teaching assistance (40h.). Main topics: Iterative methods for solving linear systems, preconditioners, nonlinear equations, ODEs, Finite Differences for 1D and 2D PDEs, FEM for 1D problems, numerical schemes for 1D conservation laws.
+* a.y. 2022/2023
+    * <em>“Numerical methods and scientific computing”</em>, M.S. course in Aerospace Engineering, Politecnico di Torino. Teaching assistance (20h.). Main topics: see a.y. 2023/2024.
+    * <em>“Linear algebra and geometry”</em>, B.S. course for all engineering curricula, Politecnico di Torino. Teaching assistance (40h.). Main topics: floating-point representation, polynomial and spline interpolation in 1D, linear regression in 1D, direct methods for solving linear systems, eigenvalues computation and Singular Value Decomposition.
+* a.y. 2021/2022
+    * <em>“Linear algebra and geometry”</em>, B.S. course for all engineering curricula, Politecnico di Torino. Teaching assistance (40h.). Main topics: see a.y. 2022/2023.
+ 
+## Supervision
 
-* a.y. 2021/22
-    * <em>“Mathematical Analysis 2”</em>, first cycle degree in Mathematics/Information Engineering/Physics. Teaching assistance (50h.)
-    * <em>“Numerical Calculus”</em>, first cycle degree in Mathematics/Information Engineering/Physics. Teaching assistance (20h.)
-    * <em>“Linear Algebra”</em>, first cycle degree in Mathematics/Information Engineering/Physics. Teaching assistance (30h.)
-
-* a.y. 2020/21
-    * <em>“Linear Algebra”</em>, first cycle degree in Mathematics/Information Engineering/Physics. Teaching assistance (50h.)
-
-* a.y. 2019/20 
-    * <em>Invited lesson in Numerical Analysis</em>, Master degree in Applied Mathematics, University of Siena.
+* Co-supervision of one Master's degree thesis in Mathematics, SISSA, Trieste (IT)
+* Co-supervision of one Master's degree thesis in Mathematical Engineering, uniPD, Padova (IT)
+  
+<!---
 
 ## Supervision
 
