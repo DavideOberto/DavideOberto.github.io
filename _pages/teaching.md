@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-TBA
 ## Teaching assistance
 * a.y. 2024/2025
     * <em>“Topics in Computational Fluid Dynamics”</em>, PhD course in Mathematical Analysis, Modelling, and Applications, SISSA. Teaching assistance (5h). Main topics: dictretization through Finite Element Method (FEM) of Stokes equations (inf-sup condition and stabilization) and Navier-Stokes equations (fixed point and Newton algorithms for nonlinearity and time discretization)
