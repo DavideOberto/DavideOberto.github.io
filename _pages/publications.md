@@ -53,54 +53,25 @@ L. Chiantini, <b>G. A. D'Inverno</b>, S. Marziali. Product Of Tensors and Descri
 </li>
 
 <li>
-<b>G. A. D'Inverno</b>, Saeid Moradizadeh, Sajad Salavatidezfouli, Pasquale Claudio Africa, Gianluigi Rozza (2025). Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction . <em>Journal of Computational and Applied Mathematics</em>, 470, 116727,  <a href="https://doi.org/10.1016/j.cam.2025.116727" target="_blank">https://doi.org/10.1016/j.cam.2025.116727</a>
-</li>
-<!--- 
-<li>
-<b>G. A. D'Inverno</b>, M. Bianchini, F. Scarselli (2024). VC dimension of Graph Neural Networks with Pfaffian activation functions. <em>Neural Networks</em>, 182, 106924. <a href="https://doi.org/10.1016/j.neunet.2024.106924" target="_blank">https://doi.org/10.1016/j.neunet.2024.106924</a>
+S. Berrone, <b>D. Oberto</b> (2022). An invariances-preserving vector basis neural network for the closure of Reynolds-averaged Navier–Stokes equations by the divergence of the Reynolds stress tensor. <em>Physics of Fluids</em>, <a href="
+https://doi.org/10.1063/5.0104605" target="_blank">
+https://doi.org/10.1063/5.0104605</a>
 </li>
 
-<li>
-<b>G. A. D'Inverno</b>, S. Brugiapaglia, M. Ravanelli (2024). Generalization Limits of Graph Neural Networks in Identity Effects Learning. <em>Neural Networks</em>, 181, 106793. <a href="https://doi.org/10.1016/j.neunet.2024.106793" target="_blank">https://doi.org/10.1016/j.neunet.2024.106793</a>
+L. Bruno, <b>D. Oberto</b> (2022). Effects of cell quality in grid boundary layer on the simulated flow around a square cylinder. <em>Computers & Fluids</em>, <a href="https://doi.org/10.1016/j.compfluid.2022.105351" target="_blank">https://doi.org/10.1016/j.compfluid.2022.105351</a>
 </li>
 
-<li>
-<b>G. A. D'Inverno</b>, J. Dong (2024). Comparison of Reservoir Computing topologies using the Recurrent Kernel approach.  <em>Neurocomputing</em>, 611, 128679. <a href="https://doi.org/10.1016/j.neucom.2024.128679" target="_blank">https://doi.org/10.1016/j.neucom.2024.128679 </a>
-</li>
-
-<li>
-<b>G. A. D’Inverno</b>, M. Bianchini, M. L. Sampoli, F. Scarselli (2024). On the approximation capability of GNNs in node classification/regression tasks. <em>Soft Computing</em>, 28, 8527–8547.  <a href="https://doi.org/10.1007/s00500-024-09676-1" target="_blank">https://doi.org/10.1007/s00500-024-09676-1</a>
-</li>
-<li>
-M. S. Bucarelli,  <b>G. A. D’Inverno</b>, M. Bianchini, F. Scarselli, F. Silvestri (2024). A topological description of loss surfaces based on Betti Numbers. <em>Neural Networks</em>, 178, 106465.  <a href="https://doi.org/10.1016/j.neunet.2024.106465" target="_blank">https://doi.org/10.1016/j.neunet.2024.106465</a>
-</li>
-
-
-<li>
-S. Beddar-Wiesing,  <b>G. A. D’Inverno</b>, C. Graziani, V. Lachi, A. Moallemy-Oureh, F. Scarselli, J. M. Thomas (2024). Weisfeiler–Lehman goes dynamic: An analysis of the expressive power of graph neural networks for attributed and dynamic graphs. <em>Neural Networks</em>, 173, 106213.  <a href="https://doi.org/10.1016/j.neunet.2024.106213" target="_blank">https://doi.org/10.1016/j.neunet.2024.106213</a>
-</li>
-
-<li>
-A. Falini, <b>G. A. D'Inverno</b>, M. L. Sampoli, F. Mazzia (2022). Splines Parameterization of Planar Domains by Physics-Informed Neural Networks. <em>Mathematics</em>, 11(10), 2406.  <a href="https://doi.org/10.3390/math11102406" target="_blank">https://doi.org/10.3390/math11102406</a>
-</li>
-
-<li>
- <b>G. A. D’Inverno</b>, S. Brunetti,  M. L. Sampoli, D. F. Muresanu, A. Rufa, M. Bianchini (2021). Visual Sequential Search Test Analysis: An Algorithmic Approach. <em>Mathematics</em>, 9(22), 2952. <a href="https://doi.org/10.3390/math9222952" target="_blank">https://doi.org/10.3390/math9222952</a>
-</li> 
--->
 </ul>
 
 ### Conference Papers
 
 <ul>
 <li>
-  C. Fontana, <b>G. A. D’Inverno</b>, N. Cappetti (2024). Diagnostic Enface Imaging of Retinal Vascularization: Topological Reconstruction and Intersection Identification. In: Carfagni, M., Furferi, R., Di Stefano, P., Governi, L., Gherardini, F. (eds) <em>Design Tools and Methods in Industrial Engineering III. ADM 2023.</em> Lecture Notes in Mechanical Engineering. Springer, Cham. [<a href="https://doi.org/10.1007/978-3-031-58094-9_5" target="_blank">https://doi.org/10.1007/978-3-031-58094-9_5</a>]
+<b>D. Oberto</b> (2025). Improving the Vector Basis Neural Network for RANS Equations Using Separate Trainings. In: Sequeira, A., Silvestre, A., Valtchev, S.S., Janela, J. (eds) <em> Numerical Mathematics and Advanced Applications ENUMATH 2023, Volume 2. </em> Lecture Notes in Computational Science and Engineering. Springer, Cham. [<a https://doi.org/10.1007/978-3-031-86169-7_21" target="_blank">https://doi.org/10.1007/978-3-031-86169-7_21</a>]
 </li>
-</ul
->
-## Doctoral thesis
-<ul>
 <li>
-<b>Giuseppe Alessio D'Inverno</b>. <em>Theoretical properties of Graph Neural Networks</em>. PhD thesis, University of Siena, 2024.  [<a href="https://hdl.handle.net/11365/1259294" target="_blank">url</a>]
+S. Berrone, <b>D. Oberto</b>, M. Pintore, G. Teora (2025). The Lowest-Order Neural Approximated Virtual Element Method. In: Sequeira, A., Silvestre, A., Valtchev, S.S., Janela, J. (eds) <em> Numerical Mathematics and Advanced Applications ENUMATH 2023, Volume 1. </em> Lecture Notes in Computational Science and Engineering. Springer, Cham. [<a https://doi.org/10.1007/978-3-031-86173-4_13" target="_blank">https://doi.org/10.1007/978-3-031-86173-4_13</a>]
 </li>
+</ul>
+
 </ul>
