@@ -18,4 +18,4 @@ My research interests focus on Computational Fluid Dynamics associated topics, f
 
 
 <h2>Contacts</h2>
-For any question about my work, possible research collaboration or simply curiosity, feel to contact me at [doberto@sissa.it](mailto:doberto@sissa.it)
+For questions about my work, possible research collaborations or any curiosity, feel free to contact me at [doberto@sissa.it](mailto:doberto@sissa.it)
