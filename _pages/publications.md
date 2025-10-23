@@ -48,7 +48,7 @@ S. Berrone, <b>D. Oberto</b>, M. Pintore, G. Teora (2025). The Lowest-Order Neur
 </li>
 </ul>
 
-### Preprints
+## Preprints
 
 <ul>
 <li>
