@@ -47,3 +47,11 @@ L. Bruno, <b>D. Oberto</b> (2022). Effects of cell quality in grid boundary laye
 S. Berrone, <b>D. Oberto</b>, M. Pintore, G. Teora (2025). The Lowest-Order Neural Approximated Virtual Element Method. In: Sequeira, A., Silvestre, A., Valtchev, S.S., Janela, J. (eds) <em> Numerical Mathematics and Advanced Applications ENUMATH 2023, Volume 1. </em> Lecture Notes in Computational Science and Engineering. Springer, <a href="https://doi.org/10.1007/978-3-031-86173-4_13" target="_blank">https://doi.org/10.1007/978-3-031-86173-4_13</a>
 </li>
 </ul>
+
+### Preprints
+
+<ul>
+<li>
+<b>D. Oberto</b>, M. Strazzullo, S. Berrone (2025). Machine Learning enhanced parametric Reynolds-averaged Navier-Stokes equations at the full and reduced order levels. </em>. arxiv, <a href="https://arxiv.org/abs/2510.06992" target="_blank">https://arxiv.org/abs/2510.06992</a>
+</li>
+</ul>
