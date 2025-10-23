@@ -52,6 +52,6 @@ S. Berrone, <b>D. Oberto</b>, M. Pintore, G. Teora (2025). The Lowest-Order Neur
 
 <ul>
 <li>
-<b>D. Oberto</b>, M. Strazzullo, S. Berrone (2025). Machine Learning enhanced parametric Reynolds-averaged Navier-Stokes equations at the full and reduced order levels. </em>. arxiv, <a href="https://arxiv.org/abs/2510.06992" target="_blank">https://arxiv.org/abs/2510.06992</a>
+<b>D. Oberto</b>, M. Strazzullo, S. Berrone (2025). Machine Learning enhanced parametric Reynolds-averaged Navier-Stokes equations at the full and reduced order levels. arxiv, <a href="https://arxiv.org/abs/2510.06992" target="_blank">https://arxiv.org/abs/2510.06992</a>
 </li>
 </ul>
